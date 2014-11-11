@@ -1,0 +1,12 @@
+{
+    "name": "bigcommerce-labs/aqi-aggregator",
+    "authors": [
+        {
+            "name": "Don O'Conal",
+            "email": "don.oconal@bigcommerce.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "*"
+    }
+}
